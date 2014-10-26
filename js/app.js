@@ -1,6 +1,6 @@
 // Gets time
 function getNow() {
-  // Formats tim
+  // Formats time
   var result = moment().format("YYYY-MM-DD | HH:mm:ss:SS");
   return result;
 }
